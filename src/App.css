@@ -1,0 +1,22 @@
+body {
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 50px;
+
+  font-family: "Open Sans", sans-serif;
+}
+
+.row {
+  padding-bottom: 50px;
+}
+
+.indexHeader {
+  text-align: center;
+  color: cornflowerblue;
+}
+
+.sourceCode {
+  text-align: right;
+  padding-left: 400px;
+  font-size: 15px;
+}

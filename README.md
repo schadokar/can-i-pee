@@ -1,12 +1,13 @@
-## react-semantic-boilerplate  
+## Can I Pee
 
-This is boilerplate is created using create-react-app and semantic-ui-react.   
+This application is to calculate the effective hours you spend on a task and
+how much average hours you want to spend on that.
 
-In this boilerplate, semantic-ui-react is installed and semantic-ui's cdn is imported in index.html.  
+This application is hosted on http://canipee.surge.sh
 
 App.css is updated with basic css.
 
---------------------------------------------------------------------------------------------------------------
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

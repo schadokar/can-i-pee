@@ -14,7 +14,7 @@ class Pee extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      avgHrs: "07",
+      avgHrs: "08",
       avgMins: "00",
       effHrs: "",
       effMins: "",
